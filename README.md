@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @clonglam
-- Come and visit my website www.clong.pro
 - 👀 I’m interested in software develop & playing on hardware stuff
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me email me mailto:clong516@gmail.com
