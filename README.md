@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @clonglam
-- 👀 I’m interested in software develop & playing on hardware stuff
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning machine learning
-- Visit my https://www.clong.pro/ or github Profiolio
+- Visit my github pins for know more my work.
 - 📫 How to reach me email me mailto:clong516@gmail.com
 <!---
 clonglam/clonglam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
