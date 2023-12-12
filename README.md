@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **clonglam516@gmail.com**
 
-- 📄 Know about my experiences [https://clong.pro](https://clong.pro)
+- 📄 Know about my experiences [https://hugo-coding.com](https://hugo-coding.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
