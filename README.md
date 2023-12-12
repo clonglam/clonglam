@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hugo Lam</h1>
 <h3 align="center">A passionate Full Stack developer from Canada</h3>
 
-- 👨‍💻 All of my projects are available at [https://clong.pro](https://clong.pro)
+- 👨‍💻 All of my projects are available at [https://hugo-coding.com](https://hugo-coding.com)
 
-- 📝 I regularly write articles on [https://blog.clong.pro](https://blog.clong.pro)
+- 📝 I regularly write articles on [@hugolam516](https://medium.com/@hugolam516)
 
 - 💬 Ask me about **react**
 
